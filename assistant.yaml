@@ -12,4 +12,4 @@ ollama:
   model: "mistral"
 
 conversation:
-  greeting: "Hi, how can I help you?"
+  greeting: "Bool na bhenchod!!!"

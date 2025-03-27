@@ -52,7 +52,7 @@ class Assistant:
         self.font = pygame.font.SysFont(None, FONT_SIZE)
         self.audio = pyaudio.PyAudio()
         self.tts = pyttsx3.init()
-        self.tts.setProperty('rate', 400)  
+        self.tts.setProperty('rate', 800)  
         self.tts.setProperty('volume', 0.9) 
 
         try:

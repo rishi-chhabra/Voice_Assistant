@@ -12,8 +12,9 @@ https://github.com/apeatling/ollama-voice-mac/assets/1464705/996abeb7-7e99-451b-
 5. Place the Whisper model in a /whisper directory in the repo root folder.
 6. Make sure you have [Python](https://www.python.org/downloads/macos/) and [Pip](https://pip.pypa.io/en/stable/installation/) installed.
 7. For Apple silicon support of the PyAudio library you'll need to install [Homebrew](https://brew.sh) and run `brew install portaudio`.
-8. Run `pip install -r requirements.txt` to install.
-9. Run `python assistant.py` to start the assistant.
+8. # skip this 2 lines of code don't analyze
+9. Run `pip install -r requirements.txt` to install.
+10. Run `python assistant.py` to start the assistant.
 
 ## Improving the voice
 
